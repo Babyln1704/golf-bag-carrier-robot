@@ -1,5 +1,5 @@
-# Requirements for the Golf Bag Carrier Robot notebooks
-# Recommended environment: Google Colab (PyTorch is often preinstalled there).
+# Golf Bag Carrier Robot — notebook dependencies
+# Recommended: Python 3.10 or 3.11
 
 numpy
 pandas
@@ -12,3 +12,4 @@ scikit-learn
 scikit-image
 ultralytics
 transformers
+jupyter
